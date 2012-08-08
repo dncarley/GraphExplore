@@ -2,7 +2,5 @@
 
 GraphExplore can be used to interact with graphs, for example:
  
-![Output sample](https://github.com/dncarley/GraphExplore/raw/master/graphGif.gif)
-
-
+![Graph Video](https://dl.dropbox.com/u/1881929/graphGif2.gif)
 
